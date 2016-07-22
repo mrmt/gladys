@@ -61,3 +61,7 @@ name comes from the novel "The Andromeda Strain" by Michael Crichton.
 > "The voice," said the supervisor heavily, "belongs to Miss Gladys Stevens, who is sixtythree years old. She lives in Omaha and makes her living taping messages for SAC crews and other voice-reminder systems."
 >
 > "Oh," Hall said.
+
+<!-- -->
+
+> There was a moment of silence, and then a scratching sound as a new recording came on, and Miss Gladys Stevens of Omaha, Nebraska, said quietly, "There are now three minutes to atomic self-destruct."
