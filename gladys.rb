@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-# ruby timer.rb 12:00 1 2 3 4 5 6 7 8 9 10 15 30 1m 2m 3m 4m 5m 10m 15m 20m 30m 45m 1h 1h30m 2h
+# ruby gladys.rb 12:00 1 2 3 4 5 6 7 8 9 10 15 30 1m 2m 3m 4m 5m 10m 15m 20m 30m 45m 1h 1h30m 2h
 
 require 'time'
 require 'timers'
 
 def usage
-  STDERR.puts "Usage: ruby timer end_time timing [timing..]"
-  STDERR.puts "  example: ruby timer 12:00 1 2 3 5m 30m 1h"
+  STDERR.puts "Usage: ruby gladys.rb end_time timing [timing..]"
+  STDERR.puts "  example: ruby gladys.rb 12:00 1 2 3 5m 30m 1h"
   exit
 end
 
