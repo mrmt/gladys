@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hitimes (1.2.4)
+    timers (4.1.1)
+      hitimes
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  timers
+
+BUNDLED WITH
+   1.12.5
